@@ -1,5 +1,4 @@
-# Space-Rangers
-# Final Project PBO C
+# Final Project PBO C - SPACE RANGERS
 
 KeeNew Dev
 > Anneu Tsabita Putri (5025211026)\
